@@ -13,9 +13,12 @@ Enunciados dos exercícios e problemas dos capítulos 5 (Redutibilidade) e 7 (Co
 └── 2a-edicao/
     ├── cap05-redutibilidade.md
     ├── cap07-complexidade-de-tempo.md
-    └── img/
-        ├── fig-7-26.png
-        └── fig-7-27.png
+    ├── img/
+    │   ├── fig-7-26.png
+    │   └── fig-7-27.png
+    └── scans/          # páginas do livro escaneadas (capítulo e páginas no nome)
+        ├── cap05-p222-223.jpg … cap05-p226-227.jpg
+        └── cap07-p310-311.jpg … cap07-p318-319.jpg
 ```
 
 ## Legenda
